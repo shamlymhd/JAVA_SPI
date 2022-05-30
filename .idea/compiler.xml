@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="com.niaa.service.impl1" />
+        <module name="com.niaa.service.impl2" />
+        <module name="com.niaa.service.api" />
+        <module name="com.shamly.service.impl2" />
+        <module name="com.shamly.service.impl1" />
+        <module name="com.shamly.service.api" />
+        <module name="demo" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="com.niaa.service.api" target="8" />
+      <module name="com.niaa.service.impl1" target="8" />
+      <module name="com.niaa.service.impl2" target="8" />
+      <module name="com.wso2.openbanking.uk.demo.backend" target="8" />
+      <module name="ServiceLoader" target="8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

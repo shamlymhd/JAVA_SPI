@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="com.niaa.service.impl2-1.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/demo/target/demo-1.0-SNAPSHOT/WEB-INF/lib/com.niaa.service.impl2-1.0-SNAPSHOT.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/demo/target/demo-1.0-SNAPSHOT/WEB-INF/lib/com.niaa.service.impl1-1.0-SNAPSHOT.jar!/" />
+      <root url="jar://$PROJECT_DIR$/demo/target/demo-1.0-SNAPSHOT/WEB-INF/lib/com.niaa.service.impl2-1.0-SNAPSHOT.jar!/" />
+    </SOURCES>
+  </library>
+</component>
